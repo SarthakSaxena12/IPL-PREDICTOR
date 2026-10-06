@@ -1,0 +1,14 @@
+# secrets and data
+kaggle*.json
+.env
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# notebooks / OS
+.ipynb_checkpoints/
+.DS_Store
